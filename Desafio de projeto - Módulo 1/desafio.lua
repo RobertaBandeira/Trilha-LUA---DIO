@@ -33,6 +33,9 @@ local function getProgressBar(attribute)
     return result
 end
 
+
+
+
 -- Cartão
 print("============================================================================")
 print("| ")
